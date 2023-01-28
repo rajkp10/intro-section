@@ -1,3 +1,19 @@
+# Live Demo
+
+https://intro-section-rajkp10.netlify.app/
+
+# About Project
+
+Intro Section with dropdown navigation from Frontend Mentor Website.
+
+# Tools
+
+This site is created using ReactJS and DaisyUI.
+
+# Preview
+
+![intro-section](https://user-images.githubusercontent.com/96880670/215284874-92d9c799-966e-4037-a5e4-5c8731c6de86.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
